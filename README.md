@@ -10,6 +10,7 @@
 3. Restart your nginx server.
 
 ## Screenshot
+![Screenshot 1](https://raw.githubusercontent.com/pan93412/bulma-nginx-fancyindex/master/img/screenshot-1.png)
 
 ## Authors
 - [pan93412](https://www.github.com/pan93412), 2019.
