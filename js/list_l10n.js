@@ -1,8 +1,5 @@
 // 本地化檔案列表。
 
-// $$(ele) => document.querySelectorAll(ele)
-const $$ = ele => document.querySelectorAll(ele)
-
 /**
  * 本地化字串。
  * 
