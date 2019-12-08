@@ -2,3 +2,7 @@
 #theme-body {
   padding: 6rem;
 }
+
+button.home-btn {
+  margin-left: 0.4rem;
+}
